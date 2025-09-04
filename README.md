@@ -29,7 +29,12 @@ Play against a friend in this classic **X and O** board game!
 3.Open index.html in your browser
 
 
+<<<<<<< HEAD
 ##🎮 How to Play
+=======
+## 🎮 How to Play
+
+>>>>>>> 44fea65 (README.md)
 1.Open the game in your browser.
 2.Player X starts first.
 3.Take turns clicking empty boxes to place your mark (X or O).
@@ -40,14 +45,25 @@ Play against a friend in this classic **X and O** board game!
 8.Use the Reset button to restart the game anytime.
    
 
+<<<<<<< HEAD
 ##🛠️ Tech Stack
+=======
+## 🛠️ Tech Stack
+>>>>>>> 44fea65 (README.md)
 -HTML5
 -CSS3
 -JavaScript (ES6)
 
+<<<<<<< HEAD
 ##👩‍💻 Author
 Sneha Kamboj
 
 GitHub: @Snehakamboj007
 
+=======
+## 👩‍💻 Author
+Sneha Kamboj
+
+GitHub: @Snehakamboj007
+>>>>>>> 44fea65 (README.md)
 LinkedIn:https://www.linkedin.com/in/sneha-kamboj-428258362
