@@ -1,33 +1,26 @@
-# 🎮Tic-Tac-Toe.js
+# 🎮 Tic-Tac-Toe.js
 
-     Description
-    A simple Tic Tac Toe game built using HTML, CSS, and JavaScript.
-    Play against a friend in this classic X and O board game!
+## 📌 Description  
+A simple **Tic Tac Toe** game built using **HTML, CSS, and JavaScript**.  
+Play against a friend in this classic **X and O** board game!
 
-📌 Features
-Two-player mode (X vs O)
-Displays current player’s turn
-Detects win, draw, and game end
-Reset / Restart functionality
-Responsive design
 
-🚀 How to Run
-Clone this repository
-git clone https://github.com/Snehakamboj007/Tic-Tac-Toe.js.git
-Open the project folder
-cd Tic-Tac-Toe.js
-Run the game by opening index.html in your browser
+## ✨ Features  
+- 🎲 Two-player mode (X vs O)  
+- 🔄 Displays current player’s turn  
+- 🏆 Detects win, draw, and game end  
+- ♻️ Reset / Restart functionality  
+- 📱 Responsive design  
 
-📂 Project Structure
-📦 Tic-Tac-Toe.js
- ┣ 📜 index.html - Game UI
- ┣ 📜 style.css  - Styling
- ┣ 📜 script.js  - Game logic
- ┗ 📜 README.md  - Documentation
- 🛠️ Tech Stack
-HTML5
-CSS3
-JavaScript (ES6)
+# 🎨 Project Style / Design  
+- **Minimal UI** with a clean and simple grid layout  
+- **Responsive design** that works on desktop and mobile  
+- **Highlight colors** for X and O turns  
+- **Winner highlight effect** when the game ends  
 
-📜 License
-This project is licensed under the MIT License – you are free to use, modify, and distribute it.
+
+
+## 🚀 How to Run  
+1. Clone this repository  
+   ```bash
+   git clone https://github.com/Snehakamboj007/Tic-Tac-Toe.js.git
